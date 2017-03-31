@@ -1,0 +1,2657 @@
+ [{
+  "id": "E",
+  "title": "E-Embarcadero",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/E",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route E-Embarcadero."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/E",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route E-Embarcadero."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "F",
+  "title": "F-Market & Wharves",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/F",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route F-Market & Wharves."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/F",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route F-Market & Wharves."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "J",
+  "title": "J-Church",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/J",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route J-Church."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/J",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route J-Church."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "KT",
+  "title": "KT-Ingleside/Third Street",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/KT",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route KT-Ingleside/Third Street."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/KT",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route KT-Ingleside/Third Street."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "L",
+  "title": "L-Taraval",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/L",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route L-Taraval."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/L",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route L-Taraval."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "M",
+  "title": "M-Ocean View",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/M",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route M-Ocean View."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/M",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route M-Ocean View."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "N",
+  "title": "N-Judah",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/N",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route N-Judah."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/N",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route N-Judah."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "NX",
+  "title": "NX-Express",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/NX",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route NX-Express."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/NX",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route NX-Express."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "1",
+  "title": "1-California",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/1",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 1-California."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/1",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 1-California."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "1AX",
+  "title": "1AX-California A Express",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/1AX",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 1AX-California A Express."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/1AX",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 1AX-California A Express."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "1BX",
+  "title": "1BX-California B Express",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/1BX",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 1BX-California B Express."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/1BX",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 1BX-California B Express."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "2",
+  "title": "2-Clement",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/2",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 2-Clement."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/2",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 2-Clement."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "3",
+  "title": "3-Jackson",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/3",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 3-Jackson."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/3",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 3-Jackson."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "5",
+  "title": "5-Fulton",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/5",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 5-Fulton."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/5",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 5-Fulton."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "5R",
+  "title": "5R-Fulton Rapid",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/5R",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 5R-Fulton Rapid."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/5R",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 5R-Fulton Rapid."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "6",
+  "title": "6-Haight-Parnassus",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/6",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 6-Haight-Parnassus."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/6",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 6-Haight-Parnassus."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "7",
+  "title": "7-Haight-Noriega",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/7",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 7-Haight-Noriega."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/7",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 7-Haight-Noriega."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "7R",
+  "title": "7R-Haight-Noriega Rapid",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/7R",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 7R-Haight-Noriega Rapid."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/7R",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 7R-Haight-Noriega Rapid."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "7X",
+  "title": "7X-Noriega Express",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/7X",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 7X-Noriega Express."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/7X",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 7X-Noriega Express."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "8",
+  "title": "8-Bayshore",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/8",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 8-Bayshore."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/8",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 8-Bayshore."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "8AX",
+  "title": "8AX-Bayshore A Express",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/8AX",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 8AX-Bayshore A Express."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/8AX",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 8AX-Bayshore A Express."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "8BX",
+  "title": "8BX-Bayshore B Express",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/8BX",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 8BX-Bayshore B Express."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/8BX",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 8BX-Bayshore B Express."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "9",
+  "title": "9-San Bruno",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/9",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 9-San Bruno."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/9",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 9-San Bruno."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "9R",
+  "title": "9R-San Bruno Rapid",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/9R",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 9R-San Bruno Rapid."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/9R",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 9R-San Bruno Rapid."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "10",
+  "title": "10-Townsend",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/10",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 10-Townsend."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/10",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 10-Townsend."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "12",
+  "title": "12-Folsom-Pacific",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/12",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 12-Folsom-Pacific."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/12",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 12-Folsom-Pacific."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "14",
+  "title": "14-Mission",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/14",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 14-Mission."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/14",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 14-Mission."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "14R",
+  "title": "14R-Mission Rapid",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/14R",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 14R-Mission Rapid."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/14R",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 14R-Mission Rapid."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "14X",
+  "title": "14X-Mission Express",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/14X",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 14X-Mission Express."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/14X",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 14X-Mission Express."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "18",
+  "title": "18-46th Avenue",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/18",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 18-46th Avenue."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/18",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 18-46th Avenue."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "19",
+  "title": "19-Polk",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/19",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 19-Polk."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/19",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 19-Polk."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "21",
+  "title": "21-Hayes",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/21",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 21-Hayes."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/21",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 21-Hayes."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "22",
+  "title": "22-Fillmore",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/22",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 22-Fillmore."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/22",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 22-Fillmore."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "23",
+  "title": "23-Monterey",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/23",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 23-Monterey."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/23",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 23-Monterey."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "24",
+  "title": "24-Divisadero",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/24",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 24-Divisadero."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/24",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 24-Divisadero."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "25",
+  "title": "25-Treasure Island",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/25",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 25-Treasure Island."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/25",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 25-Treasure Island."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "27",
+  "title": "27-Bryant",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/27",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 27-Bryant."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/27",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 27-Bryant."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "28",
+  "title": "28-19th Avenue",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/28",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 28-19th Avenue."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/28",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 28-19th Avenue."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "28R",
+  "title": "28R-19th Avenue Rapid",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/28R",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 28R-19th Avenue Rapid."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/28R",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 28R-19th Avenue Rapid."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "29",
+  "title": "29-Sunset",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/29",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 29-Sunset."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/29",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 29-Sunset."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "30",
+  "title": "30-Stockton",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/30",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 30-Stockton."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/30",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 30-Stockton."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "30X",
+  "title": "30X-Marina Express",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/30X",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 30X-Marina Express."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/30X",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 30X-Marina Express."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "31",
+  "title": "31-Balboa",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/31",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 31-Balboa."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/31",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 31-Balboa."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "31AX",
+  "title": "31AX-Balboa A Express",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/31AX",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 31AX-Balboa A Express."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/31AX",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 31AX-Balboa A Express."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "31BX",
+  "title": "31BX-Balboa B Express",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/31BX",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 31BX-Balboa B Express."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/31BX",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 31BX-Balboa B Express."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "33",
+  "title": "33-Ashbury-18th St",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/33",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 33-Ashbury-18th St."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/33",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 33-Ashbury-18th St."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "35",
+  "title": "35-Eureka",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/35",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 35-Eureka."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/35",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 35-Eureka."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "36",
+  "title": "36-Teresita",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/36",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 36-Teresita."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/36",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 36-Teresita."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "37",
+  "title": "37-Corbett",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/37",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 37-Corbett."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/37",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 37-Corbett."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "38",
+  "title": "38-Geary",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/38",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 38-Geary."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/38",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 38-Geary."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "38R",
+  "title": "38R-Geary Rapid",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/38R",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 38R-Geary Rapid."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/38R",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 38R-Geary Rapid."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "38AX",
+  "title": "38AX-Geary A Express",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/38AX",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 38AX-Geary A Express."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/38AX",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 38AX-Geary A Express."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "38BX",
+  "title": "38BX-Geary B Express",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/38BX",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 38BX-Geary B Express."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/38BX",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 38BX-Geary B Express."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "39",
+  "title": "39-Coit",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/39",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 39-Coit."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/39",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 39-Coit."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "41",
+  "title": "41-Union",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/41",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 41-Union."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/41",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 41-Union."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "43",
+  "title": "43-Masonic",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/43",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 43-Masonic."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/43",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 43-Masonic."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "44",
+  "title": "44-O'Shaughnessy",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/44",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 44-O'Shaughnessy."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/44",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 44-O'Shaughnessy."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "45",
+  "title": "45-Union-Stockton",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/45",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 45-Union-Stockton."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/45",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 45-Union-Stockton."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "47",
+  "title": "47-Van Ness",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/47",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 47-Van Ness."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/47",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 47-Van Ness."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "48",
+  "title": "48-Quintara-24th Street",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/48",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 48-Quintara-24th Street."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/48",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 48-Quintara-24th Street."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "49",
+  "title": "49-Van Ness-Mission",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/49",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 49-Van Ness-Mission."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/49",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 49-Van Ness-Mission."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "52",
+  "title": "52-Excelsior",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/52",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 52-Excelsior."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/52",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 52-Excelsior."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "54",
+  "title": "54-Felton",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/54",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 54-Felton."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/54",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 54-Felton."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "55",
+  "title": "55-16th Street",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/55",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 55-16th Street."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/55",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 55-16th Street."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "56",
+  "title": "56-Rutland",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/56",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 56-Rutland."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/56",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 56-Rutland."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "57",
+  "title": "57-Parkmerced",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/57",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 57-Parkmerced."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/57",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 57-Parkmerced."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "66",
+  "title": "66-Quintara",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/66",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 66-Quintara."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/66",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 66-Quintara."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "67",
+  "title": "67-Bernal Heights",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/67",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 67-Bernal Heights."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/67",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 67-Bernal Heights."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "76X",
+  "title": "76X-Marin Headlands Express",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/76X",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 76X-Marin Headlands Express."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/76X",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 76X-Marin Headlands Express."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "81X",
+  "title": "81X-Caltrain Express",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/81X",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 81X-Caltrain Express."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/81X",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 81X-Caltrain Express."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "82X",
+  "title": "82X-Levi Plaza Express",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/82X",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 82X-Levi Plaza Express."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/82X",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 82X-Levi Plaza Express."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "83X",
+  "title": "83X-Mid-Market Express",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/83X",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 83X-Mid-Market Express."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/83X",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 83X-Mid-Market Express."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "88",
+  "title": "88-Bart Shuttle",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/88",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 88-Bart Shuttle."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/88",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 88-Bart Shuttle."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "90",
+  "title": "90-San Bruno Owl",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/90",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 90-San Bruno Owl."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/90",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 90-San Bruno Owl."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "91",
+  "title": "91-Owl",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/91",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route 91-Owl."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/91",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route 91-Owl."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "K_OWL",
+  "title": "K-Owl",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/K_OWL",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route K-Owl."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/K_OWL",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route K-Owl."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "L_OWL",
+  "title": "L-Owl",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/L_OWL",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route L-Owl."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/L_OWL",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route L-Owl."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "M_OWL",
+  "title": "M-Owl",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/M_OWL",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route M-Owl."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/M_OWL",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route M-Owl."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "N_OWL",
+  "title": "N-Owl",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/N_OWL",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route N-Owl."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/N_OWL",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route N-Owl."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "T_OWL",
+  "title": "T-Owl",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/T_OWL",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route T-Owl."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/T_OWL",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route T-Owl."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "59",
+  "title": "Powell/Mason Cable Car",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/59",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route Powell/Mason Cable Car."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/59",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route Powell/Mason Cable Car."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "60",
+  "title": "Powell/Hyde Cable Car",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/60",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route Powell/Hyde Cable Car."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/60",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route Powell/Hyde Cable Car."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }, {
+  "id": "61",
+  "title": "California Cable Car",
+  "_links": {
+		"self": {
+  "href": "http://restbus.info/api/agencies/sf-muni/routes/61",
+  "type": "application/json",
+  "rel": "http://restbus.info/_links/rel/full",
+  "rt": "route",
+  "title": "Full configuration for sf-muni route California Cable Car."
+		},
+		"to": [{
+               "href": "http://restbus.info/api/agencies/sf-muni/routes/61",
+               "type": "application/json",
+               "rel": "http://restbus.info/_links/rel/full",
+               "rt": "route",
+               "title": "Full configuration for sf-muni route California Cable Car."
+               }],
+		"from": [{
+                 "href": "http://restbus.info/api/agencies/sf-muni",
+                 "type": "application/json",
+                 "rel": "via",
+                 "rt": "agency",
+                 "title": "Transit agency sf-muni details."
+                 }, {
+                 "href": "http://restbus.info/api/agencies/sf-muni/routes",
+                 "type": "application/json",
+                 "rel": "section",
+                 "rt": "route",
+                 "title": "A collection of routes for transit agency sf-muni."
+                 }]
+  }
+  }]

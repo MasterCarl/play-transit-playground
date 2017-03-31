@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12118" systemVersion="16D32" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12086"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner">
+            <connections>
+                <outlet property="view" destination="iN0-l3-epB" id="FiR-VY-FuJ"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="embarcadero.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="Ur3-F7-GDw">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                </imageView>
+                <view tag="4" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Hmx-ni-rC5">
+                    <rect key="frame" x="16" y="80" width="343" height="117"/>
+                    <subviews>
+                        <view tag="1" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="KeG-xY-DQD">
+                            <rect key="frame" x="8" y="8" width="100" height="100"/>
+                            <subviews>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="E" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="20" translatesAutoresizingMaskIntoConstraints="NO" id="YLF-Te-Icc">
+                                    <rect key="frame" x="17.5" y="2.5" width="65" height="94"/>
+                                    <constraints>
+                                        <constraint firstAttribute="width" constant="65" id="Htt-ab-Vp5"/>
+                                    </constraints>
+                                    <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="78"/>
+                                    <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                            </subviews>
+                            <color key="backgroundColor" red="0.40000000000000002" green="0.80000000000000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="100" id="Exm-qb-ike"/>
+                                <constraint firstItem="YLF-Te-Icc" firstAttribute="centerX" secondItem="KeG-xY-DQD" secondAttribute="centerX" id="Pog-bf-xU5"/>
+                                <constraint firstItem="YLF-Te-Icc" firstAttribute="centerY" secondItem="KeG-xY-DQD" secondAttribute="centerY" id="RDa-h5-L6m"/>
+                                <constraint firstAttribute="width" secondItem="KeG-xY-DQD" secondAttribute="height" multiplier="1:1" id="od2-vO-uPX"/>
+                            </constraints>
+                            <userDefinedRuntimeAttributes>
+                                <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                    <integer key="value" value="50"/>
+                                </userDefinedRuntimeAttribute>
+                            </userDefinedRuntimeAttributes>
+                        </view>
+                        <label opaque="NO" userInteractionEnabled="NO" tag="2" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Your line here" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="19" translatesAutoresizingMaskIntoConstraints="NO" id="rvM-BK-9zb">
+                            <rect key="frame" x="116" y="4" width="219" height="59"/>
+                            <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="49"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="Hmx-ni-rC5" secondAttribute="height" multiplier="375:128" id="8HP-Bf-PBK"/>
+                        <constraint firstItem="rvM-BK-9zb" firstAttribute="top" secondItem="Hmx-ni-rC5" secondAttribute="top" constant="4" id="BG2-Qr-fle"/>
+                        <constraint firstItem="KeG-xY-DQD" firstAttribute="leading" secondItem="Hmx-ni-rC5" secondAttribute="leading" constant="8" id="Vbg-Ik-zrj"/>
+                        <constraint firstItem="rvM-BK-9zb" firstAttribute="leading" secondItem="KeG-xY-DQD" secondAttribute="trailing" constant="8" id="pPR-Rx-Jad"/>
+                        <constraint firstItem="KeG-xY-DQD" firstAttribute="centerY" secondItem="Hmx-ni-rC5" secondAttribute="centerY" id="qVI-Zj-sSV"/>
+                        <constraint firstAttribute="trailing" secondItem="rvM-BK-9zb" secondAttribute="trailing" constant="8" id="rkO-ci-rqD"/>
+                    </constraints>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="LHc-bu-qac">
+                    <rect key="frame" x="16" y="32" width="343" height="48"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="This is line" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="N5e-zl-nst">
+                            <rect key="frame" x="8" y="8" width="327" height="32"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="nFg-MY-94K">
+                            <rect key="frame" x="0.0" y="47" width="343" height="1"/>
+                            <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="1" id="GlL-u8-6Bj"/>
+                            </constraints>
+                        </view>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="bottom" secondItem="nFg-MY-94K" secondAttribute="bottom" id="5Zk-Ak-VnC"/>
+                        <constraint firstAttribute="height" constant="48" id="JBU-JK-m8C"/>
+                        <constraint firstAttribute="trailing" secondItem="nFg-MY-94K" secondAttribute="trailing" id="Oxj-Kh-4oZ"/>
+                        <constraint firstItem="nFg-MY-94K" firstAttribute="leading" secondItem="LHc-bu-qac" secondAttribute="leading" id="YAo-pA-kbc"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <constraints>
+                <constraint firstItem="LHc-bu-qac" firstAttribute="leading" secondItem="Hmx-ni-rC5" secondAttribute="leading" id="92N-eB-zdu"/>
+                <constraint firstAttribute="trailing" secondItem="Ur3-F7-GDw" secondAttribute="trailing" id="CRC-qp-2n0"/>
+                <constraint firstItem="Ur3-F7-GDw" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="HdC-Kg-snX"/>
+                <constraint firstItem="LHc-bu-qac" firstAttribute="trailing" secondItem="Hmx-ni-rC5" secondAttribute="trailing" id="MdI-Vt-X1X"/>
+                <constraint firstItem="Hmx-ni-rC5" firstAttribute="top" secondItem="LHc-bu-qac" secondAttribute="bottom" id="Na1-lx-s6v"/>
+                <constraint firstItem="Ur3-F7-GDw" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="RC8-zT-xdi"/>
+                <constraint firstItem="Hmx-ni-rC5" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="16" id="Xu9-Vg-bJ0"/>
+                <constraint firstItem="LHc-bu-qac" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="32" id="fuK-fd-VQn"/>
+                <constraint firstAttribute="trailing" secondItem="Hmx-ni-rC5" secondAttribute="trailing" constant="16" id="msg-4K-Qro"/>
+                <constraint firstAttribute="bottom" secondItem="Ur3-F7-GDw" secondAttribute="bottom" id="ou8-0k-ZWy"/>
+            </constraints>
+            <point key="canvasLocation" x="33.5" y="53.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="embarcadero.jpg" width="2048" height="1365"/>
+    </resources>
+</document>
